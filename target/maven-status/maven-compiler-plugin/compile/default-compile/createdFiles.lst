@@ -1,0 +1,3 @@
+com\lfa\myshopify\constant\AppConstant.class
+com\lfa\myshopify\servlet\DefaultServlet.class
+com\lfa\myshopify\servlet\CallBackServlet.class
